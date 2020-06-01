@@ -1,0 +1,8 @@
+// Extending Flexbox Grid
+// ----------------------
+
+// `.col-width-auto` needs to be used just with auto width columns
+.col-width-auto {
+  flex-basis: auto;
+  flex-grow: 0;
+}
