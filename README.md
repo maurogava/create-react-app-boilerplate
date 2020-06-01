@@ -1,1 +1,1 @@
-# Mine Sweeper
+# Create React App Boilerplate
